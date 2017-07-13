@@ -7,7 +7,7 @@
 ## 预览
 <center>
 
-![](http://opzfmbyhp.bkt.clouddn.com/2017-07-13-view.png)
+![](https://user-images.githubusercontent.com/17524418/28151762-4a70c21c-67cf-11e7-93d0-1234a1b80f2f.png)
 
 </center>
 
