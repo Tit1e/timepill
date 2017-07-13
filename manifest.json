@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "timepill",
+    "description": "胶囊日记",
+    "version": "1.0",
+    "browser_action": {
+        "default_icon": "logo.png",
+        "default_title": "timepill",
+        "default_popup": "popup.html"
+    }
+}
