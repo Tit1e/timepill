@@ -7,7 +7,7 @@
 ## 预览
 <center>
 
-![](https://user-images.githubusercontent.com/17524418/28151762-4a70c21c-67cf-11e7-93d0-1234a1b80f2f.png)
+![](https://user-images.githubusercontent.com/17524418/28151806-93111a08-67cf-11e7-9ef1-ae5455e9c145.png)
 
 </center>
 
