@@ -15,6 +15,7 @@ chrome.browserAction.onClicked.addListener(function(tab) {
                                 iframe.style.position = "fixed";\
                                 iframe.style.top = "30px";\
                                 iframe.style.right = "30px";\
+                                iframe.style.background = "#fff";\
                                 iframe.style.boxShadow = "0px 2px 10px rgba(0,0,0,0.3)";\
                                 iframe.style.border = "1px solid #eee";\
                                 iframe.style.zIndex = "9999";\
