@@ -24,7 +24,7 @@ V2.0预览
 
 1.在chrome浏览器地址输入 chrome://extensions/ 进入扩展管理页面。
 
-2.下载插件,解压后将文件名为 timepill.crx 的文件拖如扩展管理页面，确认安装，然后在浏览器右上角就能看到刚装的插件，点击使用。
+2.下载插件,解压后将文件名为 **timepill_V*.0.crx** 的文件拖如扩展管理页面，确认安装，然后在浏览器右上角就能看到刚装的插件，点击使用。
 </center>
 
 ![](http://opzfmbyhp.bkt.clouddn.com/2017-07-13-download.png)
